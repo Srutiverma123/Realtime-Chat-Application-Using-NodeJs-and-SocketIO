@@ -1,6 +1,5 @@
 # Realtime-Chat-Application-Using-NodeJs-and-SocketIO
 # BASIC WhatsApp CLONE
-#GROUP DISCUSSION
 
 This is a basic WhatsApp clone for group of users to discuss on any topic. A notification sound also comes when someone leaves the chat or joins it or sends messages.
 
