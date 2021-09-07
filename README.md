@@ -13,10 +13,10 @@ This is a basic WhatsApp clone for group of users to discuss on any topic. A not
 
 
 # ON THE TERMINAL OF VS CODE
-cd nodeServer
-npm i socket.io
-npm i nodemon
-nodemon .\index.js
+1. cd nodeServer
+2. npm i socket.io
+3. npm i nodemon
+4. nodemon .\index.js
 
 #Then run the index.html page in the web browser, copy the link and open in another tab as this will allow multiple users to talk to each other.
 
