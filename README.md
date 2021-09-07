@@ -18,7 +18,7 @@ This is a basic WhatsApp clone for group of users to discuss on any topic. A not
 3. npm i nodemon
 4. nodemon .\index.js
 
-#Then run the index.html page in the web browser, copy the link and open in another tab as this will allow multiple users to talk to each other.
+5. Then run the index.html page in the web browser, copy the link and open in another tab as this will allow multiple users to talk to each other.
 
 # NOTE:(If any permission denial or module not found error comes)
 run vscode as admin and type the below line in the terminal
